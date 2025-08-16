@@ -1,0 +1,7 @@
+ 1. Explain the purpose of the main function in Dart?
+   *the main function is entrypoint in dart ,no dart applecation can run without main function.
+
+
+ 2. Describe the difference between var, dynamic, and explicitly typed variables in Dart?
+   *var is key word ,can use var to make variables essely,It can be replaced.
+   *dynamic is data type ,Not replaceable.
